@@ -1,6 +1,6 @@
 # BMI Calculator
 
-A simple BMI (Body Mass Index) Calculator built with Python and Tkinter.
+A simple GUI-based BMI Calculator using Python and Tkinter. Enter your weight and height to determine your BMI category.
 
 ## Description
 This is a basic GUI-based BMI Calculator that allows users to input their weight (in kg) and height (in cm) to determine their BMI category.
@@ -12,15 +12,15 @@ This is a basic GUI-based BMI Calculator that allows users to input their weight
 - Handles invalid inputs with error messages
 
 ## Requirements
-- Python 3.13
+- Python 3.x
 - Tkinter (usually included with Python)
 
 ## Installation
 Clone the repository and run the script:
 
 ```bash
-git clone <repository_url>
-cd bmi-calculator
+git clone https://github.com/TufanDuzel/bmi-gui-app.git
+cd bmi-gui-app
 python bmi_calculator.py
 ```
 
